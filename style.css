@@ -217,6 +217,7 @@ span {
 }
 
 .footer {
+    position: absolute;
     width: 100%;
     height: 40px;
     background: #222;
@@ -385,7 +386,7 @@ ul li p {
 }
 
 .stash--shop-light {
-    position: absolute;
+    position: fixed;
     display: inline-block;
     margin-top: -765px;
     margin-left: 1620px ;
@@ -418,6 +419,7 @@ ul li p {
     cursor: pointer;
 
 }
+
 
 
 
