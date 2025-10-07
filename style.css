@@ -9,7 +9,7 @@
 }
 
 html {
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .header {
@@ -220,6 +220,7 @@ span {
     height: 40px;
     background: #222;
     margin-top: 250px;
+    overflow: hidden;
 }
 
 .serve {
@@ -385,8 +386,8 @@ ul li p {
 .stash--shop-light {
     position: absolute;
     display: inline-block;
-    margin-top: -735px;
-    margin-left: 1620px ;
+    margin-top: -765px;
+    margin-left: 1820px ;
     width: 35px;
     height: 35px;
     background-repeat: no-repeat;
@@ -416,3 +417,4 @@ ul li p {
     cursor: pointer;
 
 }
+
