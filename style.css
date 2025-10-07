@@ -8,9 +8,8 @@
     background: #014325;
 }
 
-html, body {
+html{
     overflow: hidden;
-    min-height: 100%;
 }
 
 .header {
@@ -386,7 +385,7 @@ ul li p {
 }
 
 .stash--shop-light {
-    position: fixed;
+    position: absolute;
     display: inline-block;
     margin-top: -765px;
     margin-left: 1620px ;
@@ -419,6 +418,7 @@ ul li p {
     cursor: pointer;
 
 }
+
 
 
 
