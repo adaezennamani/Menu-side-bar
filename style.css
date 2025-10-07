@@ -8,7 +8,7 @@
     background: #014325;
 }
 
-html {
+html, body {
     overflow: hidden;
     min-height: 100%;
 }
@@ -418,6 +418,7 @@ ul li p {
     cursor: pointer;
 
 }
+
 
 
 
