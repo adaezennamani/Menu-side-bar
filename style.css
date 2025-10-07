@@ -10,6 +10,7 @@
 
 html {
     overflow: hidden;
+    min-height: 100%;
 }
 
 .header {
@@ -418,5 +419,6 @@ ul li p {
     cursor: pointer;
 
 }
+
 
 
