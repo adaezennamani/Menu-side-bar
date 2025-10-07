@@ -385,7 +385,7 @@ ul li p {
 .stash--shop-light {
     position: absolute;
     display: inline-block;
-    margin-top: -765px;
+    margin-top: -735px;
     margin-left: 1620px ;
     width: 35px;
     height: 35px;
@@ -414,4 +414,5 @@ ul li p {
 .fxemoji--negativesquaredcrossmark:hover {
     scale: 1.2;
     cursor: pointer;
+
 }
